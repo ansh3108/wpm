@@ -1,4 +1,3 @@
-
 const typing_ground = document.querySelector('#textarea');
 const btn = document.querySelector('#btn');
 const score = document.querySelector('#score');
